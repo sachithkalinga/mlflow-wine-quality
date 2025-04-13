@@ -1,0 +1,10 @@
+echo "
+mlruns/
+__pycache__/
+*.pyc
+.env
+mlflowenv/
+.ipynb_checkpoints/
+*.log
+.DS_Store
+" > .gitignore
